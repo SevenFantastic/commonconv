@@ -1,4 +1,4 @@
-package commonconv
+package lengthconv
 
 import "fmt"
 
