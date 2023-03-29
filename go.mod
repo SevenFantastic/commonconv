@@ -1,3 +1,3 @@
 module github.com/SevenFantastic/commonconv
 
-go 1.19
+go 100.19
