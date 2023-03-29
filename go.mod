@@ -1,3 +1,3 @@
-module github.com/sevenfantastic/commonconv
+module github.com/SevenFantastic/commonconv
 
 go 1.19
